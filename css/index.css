@@ -179,8 +179,8 @@ nav .nav-buttons {
 }
 nav h1 {
   font-size: 4.5rem;
-  color: #23293B;
   padding-bottom: 2%;
+  color: #23293B;
 }
 nav a {
   text-decoration: none;
@@ -241,6 +241,28 @@ footer {
 }
 .home .walk .walk-text p {
   margin-bottom: 26px;
+}
+.home .walk .walk-text .btn {
+  width: 28%;
+  height: 12%;
+  background: #22283A;
+  color: white;
+  text-align: center;
+  padding-top: 3%;
+  font-size: 1.5rem;
+  border-radius: 10px;
+}
+.home .walk .walk-text .btn:hover {
+  width: 28%;
+  height: 12%;
+  background: #22283A;
+  color: white;
+  text-align: center;
+  padding-top: 3%;
+  font-size: 1.5rem;
+  border-radius: 10px;
+  background-color: dodgerblue;
+  color: black;
 }
 .home .walk .walk-img {
   width: 46%;
